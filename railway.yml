@@ -1,0 +1,5 @@
+version: 1
+services:
+  app:
+    env:
+      PORT: 3000
