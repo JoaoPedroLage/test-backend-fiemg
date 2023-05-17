@@ -52,12 +52,7 @@ O que foi realizado:
    * Otimizado para tráfego orgânico e com ótima experiência ao usuário.
    * Carregamento acelerado.
 - [x] Setup do projeto com arquitetura de software.
-- [x] Dockerizar aplicação.
-- [x] Tipagem de todos arquivos.
-- [x] Adicionar linter ao projeto.
 - [x] Deploy cloud na Vercel.
-- [X] Responsividade da aplicação para dispositivos movéis e desktop.
-- [X] Componentização das partes de cada tela do projeto.
 
 
 # :books: Stacks utilizadas
@@ -65,10 +60,6 @@ O que foi realizado:
 ### Back-end
 - [NestJS](https://nestjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- []
-- []
-- []
-
 
 
 # Etapa mais desafiadora
