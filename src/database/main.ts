@@ -20,6 +20,7 @@ const databaseConfig = {
   user: process.env.MYSQLUSER,
   password: process.env.MYSQLPASSWORD,
   database: process.env.MYSQLDATABASE,
+  port: Number(process.env.MYSQLPORT),
 };
 
 async function connectToDatabase() {
