@@ -76,7 +76,7 @@ Para esse projeto foi utilizado:
 #  <img src="https://railway.app/brand/logo-dark.svg" width='40px'/> &nbsp;Deploy no Railway
 * A API foi colocada online Railway com 3 serviços, um banco de dados MySQL, um serviço para ler API JSON e popular o banco de dados e um para a API REST com CRUD das universidades anteriormente cadastradas no banco de dados.
 * Endereço online da aplicação: https://test-backend-fiemg-production.up.railway.app/universities
-![image](https://github.com/JoaoPedroLage/test-backend-fiemg/assets/87338925/dfb9f0bb-2f1a-4df3-8fb0-9a1aa520f2df)
+![image](https://github.com/JoaoPedroLage/test-backend-fiemg/assets/87338925/1d6de136-238b-43a0-ba0f-3ce912fd99fe)
 
 
 
