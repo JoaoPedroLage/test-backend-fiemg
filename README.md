@@ -73,7 +73,7 @@ Para esse projeto foi utilizado:
 - Fazer o sistema de autenticação da API com as características exclusivas do Nest.Js.
 - Correção de bugs ao longo do desenvolvimento através de diversos testes utilizando cada rota da aplicação.
 
-#  <img src="https://cdn.changelog.com/uploads/icons/news_sources/qGw/icon_small.png?v=63692097118" width='40px'/> &nbsp;Deploy no Railway
+#  <img src="https://railway.app/brand/logo-dark.svg" width='40px'/> &nbsp;Deploy no Railway
 * A API foi colocada online Railway com 3 serviços, um banco de dados MySQL, um serviço para ler API JSON e popular o banco de dados e um para a API REST com CRUD das universidades anteriormente cadastradas no banco de dados.
 * Endereço online da aplicação: https://test-backend-fiemg-production.up.railway.app/universities
 ![image](https://github.com/JoaoPedroLage/test-backend-fiemg/assets/87338925/dfb9f0bb-2f1a-4df3-8fb0-9a1aa520f2df)
