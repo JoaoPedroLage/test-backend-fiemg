@@ -96,6 +96,13 @@ $ yarn install
 ## Running the app
 
 ```bash
+# build
+$ yarn build
+
+# seed database
+$ yarn yarn db:seed
+$ prisma generate
+
 # development
 $ yarn run start
 
