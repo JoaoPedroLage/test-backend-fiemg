@@ -28,6 +28,7 @@ async function connectToDatabase() {
     host: process.env.MYSQLHOST,
     user: process.env.MYSQLUSER,
     password: process.env.MYSQLPASSWORD,
+    port: Number(process.env.MYSQLPORT),
   });
 
   return new Promise((resolve, reject) => {
