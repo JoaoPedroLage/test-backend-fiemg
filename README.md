@@ -52,12 +52,7 @@ O que foi realizado:
    * Otimizado para tráfego orgânico e com ótima experiência ao usuário.
    * Carregamento acelerado.
 - [x] Setup do projeto com arquitetura de software.
-- [x] Dockerizar aplicação.
-- [x] Tipagem de todos arquivos.
-- [x] Adicionar linter ao projeto.
 - [x] Deploy cloud na Vercel.
-- [X] Responsividade da aplicação para dispositivos movéis e desktop.
-- [X] Componentização das partes de cada tela do projeto.
 
 
 # :books: Stacks utilizadas
@@ -65,10 +60,6 @@ O que foi realizado:
 ### Back-end
 - [NestJS](https://nestjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- []
-- []
-- []
-
 
 
 # Etapa mais desafiadora
@@ -80,7 +71,7 @@ O que foi realizado:
 
 #  <img src="https://cdn.changelog.com/uploads/icons/news_sources/qGw/icon_small.png?v=63692097118" width='40px'/> &nbsp;Deploy no Railway
 * A API foi colocada online através do Next.js e do Vercel que trabalham juntos, o uso do Next fez com que o deploy da aplicação fosse mais fácil e de fácil manutenibilidade.
-* Endereço online da aplicação: https://joao-lage-test-abas.vercel.app/
+* Endereço online da aplicação: https://test-backend-fiemg-production.up.railway.app/universities
 
 
 
@@ -96,6 +87,13 @@ $ yarn install
 ## Running the app
 
 ```bash
+# build
+$ yarn build
+
+# seed database
+$ yarn yarn db:seed
+$ prisma generate
+
 # development
 $ yarn run start
 
