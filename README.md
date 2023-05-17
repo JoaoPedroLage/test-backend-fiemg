@@ -37,9 +37,10 @@ por João Pedro de Oliveira Lage
 
 - [Etapa mais desafiadora](#%EF%B8%8F-etapa-mais-desafiadora)
 
+- [Deploy no RailWay](#deploy)
+
 - [Abrir e rodar o projeto](#%EF%B8%8F-abrir-e-rodar-o-projeto)
 
-- [Deploy no RailWay](#deploy)
 
 
 # :books: Descrição do Projeto
